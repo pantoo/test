@@ -1,2 +1,2 @@
 git is a version to control system
-git is free.
+git is free software.
